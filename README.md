@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Computer Engineering Student | AI/ML & NLP Enthusiast | Full-Stack Developer
+### Computer Engineering Student | AI/ML & NLP Enthusiast 
 
 I enjoy building practical technology solutions, exploring intelligent systems, and developing projects that combine software engineering with real-world problem solving.
 
@@ -63,15 +63,15 @@ A technology-themed interactive multiplayer board game combining quiz-based chal
 
 ### Frontend Development
 
-[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
 ### Backend & Databases
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,supabase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase)](https://skillicons.dev)
 
 ### AI / ML & Data Science
 
-[![AI ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
+[![AI ML](https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn)](https://skillicons.dev)
 
 ### Tools & Platforms
 
